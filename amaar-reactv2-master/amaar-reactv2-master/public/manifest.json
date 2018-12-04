@@ -1,0 +1,22 @@
+{
+  "short_name": "Amaar",
+  "name": "Amaar",
+  "icons": [
+    {
+      "src": "/images/icon-small.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/images/icon-large.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url"        : "/",
+  "background_color" : "#FFFFFF",
+  "display"          : "standalone",
+  "scope"            : "/",
+  "theme_color"      : "#E58100",
+  "gcm_sender_id"    : "103953800507"
+}
